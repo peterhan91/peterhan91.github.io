@@ -45,8 +45,8 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Co-Instructor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Graduate-level introduction to medical image analysis course taught by <a href="https://www.ukaachen.de/kliniken-institute/klinik-fuer-diagnostische-und-interventionelle-radiologie/forschung/mm-machine-learning-and-musculoskeletal-imaging/">Daniel Truhn</a> and <a href="https://www.exmi.rwth-aachen.de/cms/EXMI/Das-Institut/Leitungsteam/~ndvwl/Fabian-Kiessling/?allou=1&lidx=1">Fabian Kiessling</a>.</li>
-      <li class="list-group-item">— Lecture on feature extraction and radiomic analysis: </li>
+      <li class="list-group-item">Graduate-level introduction to medical image analysis course taught by me, <a href="https://www.ukaachen.de/kliniken-institute/klinik-fuer-diagnostische-und-interventionelle-radiologie/forschung/mm-machine-learning-and-musculoskeletal-imaging/">Daniel Truhn</a>, and <a href="https://www.exmi.rwth-aachen.de/cms/EXMI/Das-Institut/Leitungsteam/~ndvwl/Fabian-Kiessling/?allou=1&lidx=1">Fabian Kiessling</a>.</li>
+      <li class="list-group-item">— Lecture on feature extraction and radiomic analysis. </li>
       <li class="list-group-item">— Lecture reviewing deep learning and convolutional neural network basics: <a href="/assets/pdf/teaching/med_datasci_2023.pdf">slides</a>.</li>
     </ul>
   </div>
